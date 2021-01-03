@@ -1,0 +1,26 @@
+##############################
+# Please edit this line to "not_sample_anymore" to make the bot run
+is_example_config_or_not: "not_sample_anymore"
+##############################
+bot_token: "1486553989:AAHToXlBrbOp1UmTmYGGNLki02OOYxo9Vpk"
+api_key: ''
+api_hash: ''
+owner_id: 828161590
+owner_username: "cyberkiller7"
+message_dump: "828161590"
+gban_dump: "828161590"
+load: []
+no_load: []
+strict_antispam: False
+workers: 4
+deepfry_token: None
+del_cmds: False
+sw_api: ''
+
+# Database
+database_url: "postgres://username:password@host:5432/database_name"
+
+# Permission
+sudo_users: []
+support_users: []
+whitelist_users: []
